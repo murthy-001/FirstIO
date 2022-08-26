@@ -5,7 +5,7 @@ The purpose of the program will be to allow the user to set an alarm so that it 
 ```
 Set your alarm.
 Hour:
-9
+8
 AM or PM (enter A or P):
 P
 Give a one-word alarm title:
@@ -15,7 +15,7 @@ School alarm has been set for 8 AM
 
 In this example, the user typed in the responses: 
 
-**9**, **P**, and **School**
+**8**, **P**, and **School**
 
 First, identify what **data type** is most appropriate to store each of those three pieces of information: a **whole number**, a **letter**, and a **word**. 
 
