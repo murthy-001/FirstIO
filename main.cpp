@@ -7,7 +7,7 @@ int main()
 
 
     //algorithm
-    this is not valid c++ code!
+    cout << "Hiya buddy!\n";
     
     return 0;
 }
